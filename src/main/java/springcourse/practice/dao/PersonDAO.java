@@ -14,7 +14,7 @@ public class PersonDAO {
     // надо хранить отдельно данные (в дальнейшем эти данные вынесем отдельно)
     private static final String URL = "jdbc:postgresql://localhost:5432/SpringJDBCNew";
     private static final String USERNAME = "postgres";
-    private static final String PASSWORD = "mynDD#11";
+    private static final String PASSWORD = "hiddenpassword";
 
     private static Connection connection;
 
